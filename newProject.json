@@ -1,0 +1,21 @@
+{
+  "id": "bd8ecff7-c74b-41ed-9886-6042b17ff7e9",
+  "version": "0.1.0",
+  "name": "newProject",
+  "contractsTemplateManager": {
+    "contracts": []
+  },
+  "routesTemplateManager": {
+    "routes": []
+  },
+  "docsTemplateManager": {
+    "docs": []
+  },
+  "scriptsTemplateManager": {
+    "scripts": []
+  },
+  "chainData": {},
+  "homepageUrl": "",
+  "logoUrl": "",
+  "description": {}
+}
